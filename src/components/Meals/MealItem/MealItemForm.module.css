@@ -1,0 +1,26 @@
+/*
+ * @Date: 2021-08-30 11:27:18
+ * @LastEditors: Fane Kung
+ * @LastEditTime: 2021-09-06 20:04:48
+ * @FilePath: /food-order/src/components/Meals/MealItem/MealItemForm.module.css
+ */
+.form {
+  text-align: right;
+}
+
+.form button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #243b2b;
+  border: 1px solid #243b2b;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.form button:hover,
+.form button:active {
+  background-color: #6b9168;
+  border-color: #6b9168;
+}

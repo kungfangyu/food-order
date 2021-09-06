@@ -1,0 +1,12 @@
+/*
+ * @Date: 2021-08-30 10:59:48
+ * @LastEditors: Fane Kung
+ * @LastEditTime: 2021-08-30 11:01:59
+ * @FilePath: /food-order/src/components/UI/Card.module.css
+ */
+.card {
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color: white;
+}
